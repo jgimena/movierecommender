@@ -1,0 +1,31 @@
+1	Thor: Ragnarok
+2	Wonder Woman
+3	Guardians of the Galaxy Vol. 2
+4	Baywatch
+5	Logan
+6	It
+7	Despicable Me 3
+8	Pirates of the Caribbean: Dead Men Tell No Tales
+9	Justice League
+10	Star Wars: The Last Jedi
+11	Kong: Skull Island
+12	War for the Planet of the Apes
+13	Ghost in the Shell
+14	Spider-Man: Homecoming
+15	The LEGO Batman Movie
+16	Beauty and the Beast
+17	Smurfs: The Lost Village
+18	The Fate of the Furious
+19	Fifty Shades Darker
+20	Pitch Perfect 3
+21	Transformers: The Last Knight
+22	Power Rangers
+23	The Mummy
+24	Paddington 2
+25	Alien: Covenant
+26	Kingsman: The Golden Circle
+27	The Emoji Movie
+28	Coco
+29	xXx: Return of Xander Cage
+30	Jumanji: Welcome to the Jungle
+
